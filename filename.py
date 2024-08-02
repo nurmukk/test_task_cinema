@@ -8,6 +8,9 @@
 #
 # Для запуска вывполните команду в терминал
 # $ python3 filename.py 
+#
+# Если хотите запустить с command line интерфейсом 
+# $ python3 launch.py
 
 from cinema import CinemaTicketSystem
 
